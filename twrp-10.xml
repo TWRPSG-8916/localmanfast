@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/samsung/gtelwifiue" name="TWRPSG-8916/android_device_samsung_gtelwifiue" remote="github" revision="TWRP_10" />
+  <project path="device/samsung/gtesqltespr" name="TWRPSG-8916/android_device_samsung_gtesqltespr" remote="github" revision="TWRP_10" />
+  <project path="kernel/samsung/msm8916" name="LOSSG-8916/android_kernel_samsung_msm8916" remote="github" revision="lineage-17.1_DJABHipHop"/>
+  <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="lineage-17.1" />
+
+  <!-- Vendor Extra -->
+  <project name="BAProductions/vendor_extra" path="vendor/extra" remote="github" revision="lineage-16.0"/>
+</manifest>
